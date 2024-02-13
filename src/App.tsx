@@ -16,7 +16,7 @@ function App() {
       </GridItem>
       <Show above="lg">
         <GridItem bg="pink.300" gridArea={"aside"}>
-          Aside
+          {/* placeholder */}
         </GridItem>
       </Show>
       <GridItem bg="green.300" gridArea={"main"}>
